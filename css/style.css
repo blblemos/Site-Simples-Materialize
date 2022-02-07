@@ -49,6 +49,11 @@ nav .brand-logo {
  min-height: 500px;
 }
 
+
+.card .card-image img{
+  height: 230px;
+}
+
 .card-image span{
   font-weight: bold;
   background-color: rgba(0, 0, 0, 0.5);
